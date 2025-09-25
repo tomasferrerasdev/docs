@@ -8,6 +8,12 @@
     "dark": "#fff"
   },
   "favicon": "/favicon.svg",
+  "fonts": {
+    "family": "aeonik",
+    "weight": 400,
+    "source": "https://magic-dev-git-staging-basement.vercel.app/fonts/aeonik/Aeonik-Regular.woff2",
+    "format": "woff2"
+  },
   "navigation": {
     "tabs": [
       {
